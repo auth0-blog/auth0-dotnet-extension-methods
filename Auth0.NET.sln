@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Auth0.NET", "Auth0.NET.csproj", "{D3AA4C1C-EA61-408A-8AFF-C143C92BFDA3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3AA4C1C-EA61-408A-8AFF-C143C92BFDA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3AA4C1C-EA61-408A-8AFF-C143C92BFDA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3AA4C1C-EA61-408A-8AFF-C143C92BFDA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3AA4C1C-EA61-408A-8AFF-C143C92BFDA3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {72D775AF-8C39-4A33-9DEB-FBD9BCA369E6}
+	EndGlobalSection
+EndGlobal
