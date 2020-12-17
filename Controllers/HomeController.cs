@@ -6,10 +6,10 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Authentication;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
-using Auth0.NET5.Models;
+using Auth0.NET.Models;
 using System.Globalization;
 
-namespace Auth0.NET5.Controllers
+namespace Auth0.NET.Controllers
 {
     public class HomeController : Controller
     {

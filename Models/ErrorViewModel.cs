@@ -1,6 +1,6 @@
 using System;
 
-namespace Auth0.NET5.Models
+namespace Auth0.NET.Models
 {
     public class ErrorViewModel
     {

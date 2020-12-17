@@ -15,7 +15,7 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
-    "Auth0.NET5": {
+    "Auth0.NET": {
       "commandName": "Project",
       "dotnetRunMessages": "true",
       "launchBrowser": true,
