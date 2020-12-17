@@ -1,4 +1,4 @@
-﻿using Auth0.NET5.ViewModels;
+﻿using Auth0.NET.ViewModels;
 using Microsoft.AspNetCore.Authentication;
 using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.AspNetCore.Authentication.OpenIdConnect;
@@ -7,7 +7,7 @@ using Microsoft.AspNetCore.Mvc;
 using System.Security.Claims;
 using System.Threading.Tasks;
 
-namespace Auth0.NET5.Controllers
+namespace Auth0.NET.Controllers
 {
     public class AccountController : Controller
     {

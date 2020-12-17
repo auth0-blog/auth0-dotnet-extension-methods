@@ -14,7 +14,7 @@ using Microsoft.Extensions.Hosting;
 using Microsoft.IdentityModel.Protocols.OpenIdConnect;
 using Microsoft.IdentityModel.Tokens;
 
-namespace Auth0.NET5
+namespace Auth0.NET
 {
     public class Startup
     {
